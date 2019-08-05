@@ -1,2 +1,2 @@
 # go_merchant
-Go Merchant is a simple payment abstraction library. The aim of the project is to feel natural to GOLANG users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways.
+Go Merchant is a multi-gateway payment processing library for Golang. In other words, it is a Golang alternative to Active Merchant for Ruby, Omnipay and Aktive Merchant for PHP payment gateway aggregation libraries.
